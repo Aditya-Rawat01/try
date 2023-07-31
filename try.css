@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(133, 98, 241);
+}
+a {
+    color: rgb(104, 255, 144);
+}
+p {
+    color: hsl(208, 100%, 97%);
+}
+img {
+    height: 200rem;
+    width: 200rem;
+   
+}
+#wideputin {
+    height: 500px;
+    width: 1510px;
+}
